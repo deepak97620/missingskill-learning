@@ -1,10 +1,5 @@
-Relative path: ![Image alt text](./image.png)
-
-Absolute path in Git: ![Image alt text](/media/markdown-guidance/image.png)
-
-Absolute path in TFVC: ![Image alt text]($/project/folder/media/markdown-guidance/image.png)
-
-Resize image: IMAGE_URL =WIDTHxHEIGHT
+**Working of Git**
+Relative path: ![Image alt text](images/git.png.jpeg)
 
 ### Git and basic building block ###
  
