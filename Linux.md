@@ -1,5 +1,5 @@
 
-##History of Linux
+### History of Linux ###
 
 - Unix system was created in Bell lab using ‘C’ Language and it was released after one year in 1970 . 
 - Firstly It was too costly because of paid service.
@@ -19,7 +19,7 @@
 **GNU / LINUX:**  It is a Operating system
 
 
-###Linux ###
+### Linux ###
 
 - Linux is Kernal.
 - Kernal is heart and core of an Operating system
@@ -67,7 +67,7 @@ The Linux command uses to communicate between user and system. Some basic comman
 - **mv-move :**  used to move the file or folder from one location to another location.
 - **rm :** 	 used to remove only file not folder. removed file cannot be retrieve
 - **who :**         used to display how many users logged in into the system.
--       **cd :**	 used to change from one folder or directory to another.
+- **cd :**	 used to change from one folder or directory to another.
 - **Ifconfig :**      used to display the IP address of the system.
 - **rename :**       used to rename the file.
 - **whoami :**    Displays the username of the current user.
