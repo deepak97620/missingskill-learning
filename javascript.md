@@ -2,17 +2,17 @@
 
 ### History of JavaScript
 
-JavaCript is created by **Brendan Eich** in 1995 
+JavaCript is created by **Brendan Eich** in **1995** 
 
-Firstly there was only two windows are used in the market are Microsoft and Apple. Both are too costly to use, then Netscape browser come. it was free so
-anyone can build the website on their own, and then they won't have to pay money to Microsoft and Apple.
+**Firstly** there **Microsoft** and **Apple**, Both system was too costly to use, then Netscape browser come. it was free so anyone can build the website on their own, and then they dont have to pay money to others.
 
-Netscape company become very big company in short time, Microsoft wanted to buy that company but it get denied, then microsoft made own browser internet exploler and gave them free, because of this netscape market went down. At that time backend leader was Java of **Sun Microsystem**.
+**Netscape company become very big company in short time**, Microsoft wanted to buy that company but it get denied, then **microsoft** made own browser **internet exploler** and gave them free, because of this **netscape** market went down. At that time backend leader was **Java** of **Sun Microsystem**.
  
-Java is always failed in front end part so Netscape Navigator and Sun Microsystem came together and they wanted to fight Microsoft. Then There was a developer called Brandan Eich who create language Mocha in three weeks  After that to make a proper name Netscape, LiveScript and Mocha change their name to Javascript. 
+Java is always failed in front-end part so** Netscape Navigator** and **Sun Microsystem** came together and they wanted to fight **Microsoft**, then there was a developer called **Brandan Eich** who create language **Mocha** After that to make a proper name of **Netscape**, **LiveScript** and **Mocha** change their name to **Javascript**. 
 
-In 1996, Google started search Engines so they started using Javascript. Then Yahoo and Google and their main business is to create websites. So they heavily contributing to JavaScript Community & JavaScript Standards. To avoid confusion in ES3.1 rename to ES5 In 2009. So in 2009 ES5 was finalized that all of the browsers started implementing ES5.  
-In 2013 company noticed some drawbacks of Javascript that drawbacks are overcome in 2015 that is called ES6. Then after ES7, ES8, ES9, ES10......
+In **1996**, **Google** started search Engines so they started using **Javascript**.The main business of Yahoo and Google was to make website. So they heavily contributing into JavaScript. So in **2009** **ES5** was finalized that all of the browsers started implementing **ES5**.  
+In **2013** company noticed some drawbacks of **Javascript** so they changes that drawbacks and released new version in **2015** that is called **ES6**. 
+
 
 
 ----------
@@ -278,7 +278,7 @@ var x = 90;
 ---
 
 
-###Function
+### Function ###
 - It means a set of statements that perform a perticular task.
 - It is like a container which store all type of data like primitive and non-primitive.
 - It remain as it if there is no call of function, It can be call multiple time.
@@ -362,7 +362,7 @@ etc.....
 		f1()()();
 	
 
-###Inline Function
+### Inline Function ###
 
 - A Function can be defined within a function is called inline function
 - It can be a type of private function.
@@ -394,7 +394,7 @@ etc.....
 
 
 
-###Pure Function
+### Pure Function ###
  
 - A function in which, whatever we have passed only that value is returning.
 - If parameter is not modified then that function will be pure function.
@@ -423,7 +423,7 @@ etc.....
 	
    
 
-###Arrow Function
+### Arrow Function ###
 
 - It is a part of ECMAScript 6.
 - '()==>' This is using instead of function.
@@ -481,7 +481,7 @@ etc.....
 
 
 
-###Array Methods
+### Array Methods ###
 
 - **push** - add element at the end
 - **pop** - remove element from end
@@ -494,7 +494,7 @@ etc.....
 - **join** - it join array element to some value
 - **length**	It returns length of the array.   
 
-###Object Methods
+### Object Methods ###
 
 - **toString** - convert data into string data can be Primitive nad non primitive
 - **valueOf** - Return value of key
@@ -502,7 +502,7 @@ etc.....
 - **assign** - It creates a new object and assigns it to the new object.   |
 - **isArray** - It returns true if data is array else false.
 
-###String Methods ###
+### String Methods ###
 
 - **toUpperCase** - convert string into uppercase letters
 - **toLowerCase** - convert string into lowercase letters
@@ -514,7 +514,7 @@ etc.....
 
 
 
-###Built-In Functions In JavaScript
+### Built-In Functions In JavaScript ###
                            
 - setTimeOut()- It delay the execution of code. It runs only once
 - setInterval()- It continue excute code till clearInterval clear the time
@@ -536,7 +536,7 @@ etc.....
 
 		clearInterval(x); // It will clear the interval when it call
 
-###JSON
+### JSON ###
  
 - It stands for Javascript object notation.
 - It can be used for tranfer and recieve data from one application to another application.
